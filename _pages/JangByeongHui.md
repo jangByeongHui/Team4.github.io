@@ -3,7 +3,11 @@ permalink: /JangByeongHui/
 ---
 
 ### 장병희 소개 페이지
+<<<<<<< HEAD
 #### 나의 사진
+=======
+
+>>>>>>> 5be0fd4aacbdd68df53cde8a1eb0012cacf3d860
 ![장병희_취업사진(소)](https://user-images.githubusercontent.com/41332873/124732220-f9b81a00-df4d-11eb-96c1-a588e21ddefa.jpg)
 
 #### 약력
