@@ -8,6 +8,8 @@ main:
     
   - title: "조재성 소개"
     url: /JaeSungCho/
+  - title: "나준엽 소개"
+    url: /나준엽/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
