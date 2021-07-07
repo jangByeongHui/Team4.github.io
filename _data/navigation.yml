@@ -3,10 +3,14 @@ main:
   - title: "장병희 소개"
     url: /JangByeongHui/
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "갑순이 소개"
-    url: /hello2/ #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-
-  - title: 
+  - title: "정가희 소개"
+    url: /gahee/ #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    
+  - title: "조재성 소개"
+    url: /JaeSungCho/
+    
+  - title: "나준엽 소개"
+    url: /나준엽/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

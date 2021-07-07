@@ -1,0 +1,12 @@
+---
+permalink: /나준엽/
+---
+
+### 나준엽
+#### 소프트웨어학과 201620904
+
+```shell script
+* email : junyeoop@gmail.com
+
+
+```
