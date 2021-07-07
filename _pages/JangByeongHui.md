@@ -3,7 +3,8 @@ permalink: /JangByeongHui/
 ---
 
 ### 장병희 소개 페이지
-<img src="https://github.com/jangByeongHui/Team4.github.io/blob/master/images/%EC%9E%A5%EB%B3%91%ED%9D%AC_%EC%B7%A8%EC%97%85%EC%82%AC%EC%A7%84.jpg" width="200" height="200"> 
+
+![장병희_취업사진(소)](https://user-images.githubusercontent.com/41332873/124732220-f9b81a00-df4d-11eb-96c1-a588e21ddefa.jpg)
 
 안녕하세요. 저는 17학번 소프트웨어학과 장병희입니다. 현재 3학년이고요.(2021년 7월 기준)
 이번 실전 코딩 수업을 통해서 실무에서 필요한 코딩 역량을 키워갔으면 좋겠습니다.
