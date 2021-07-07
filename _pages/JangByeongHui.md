@@ -2,7 +2,9 @@
 permalink: /JangByeongHui/
 ---
 
-### JangByeongHui
-#### 2021 Practical Coding
+### 장병희 소개 페이지
+![장병희]()
+안녕하세요. 저는 17학번 소프트웨어학과 장병희입니다.
+
 
 #### 장병희
