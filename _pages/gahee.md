@@ -1,7 +1,6 @@
 ---
 permalink: /gahee/
 ---
-
 ## Profile
 * 이름: 정가희
 * 나이: 22
