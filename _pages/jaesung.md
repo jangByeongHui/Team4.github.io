@@ -11,7 +11,3 @@ permalink: /JaeSungCho/
 |이메일|jaesung4231@ajou.ac.kr|
 |Slack|jaesung4231@ajou.ac.kr|
 
-
-
-
-### 조재성
